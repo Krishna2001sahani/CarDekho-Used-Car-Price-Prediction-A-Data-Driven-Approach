@@ -59,8 +59,8 @@ To build a **Machine Learning model** that accurately predicts the price of used
 - Feature importance analysis showed that **Present_Price** and **Year** had the most significant impact on price prediction.
 
 ## 🤝 Contributors
-- **Krishna Kumar Sani** (@your-github-profile)
-- **Tushar Jha** (@tusharjha)
+- **Krishna Kumar Sani** 
+- **Tushar Jha**
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
