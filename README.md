@@ -1,5 +1,4 @@
 # CarDekho-Used-Car-Price-Prediction-A-Data-Driven-Approach
-# CarDekho Used Car Price Prediction
 
 ## 📌 Project Overview
 The used car market in India is highly dynamic, with prices fluctuating due to various factors such as **brand, model, mileage, condition, and market trends**. This project aims to develop a **Machine Learning model** that accurately predicts the price of used cars based on their features.
